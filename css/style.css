@@ -1,6 +1,11 @@
 *{
+    text-align: center;
     color: red;
 }
 h1{
     color: blueviolet;
-} 
+} img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
